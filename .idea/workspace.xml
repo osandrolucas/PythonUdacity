@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af708f74-6c7e-483b-82d0-3077ec3832e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP/entertainment_center.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/media.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/page_movies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_Udacity.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Udacity.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/send_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/send_text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/entertainment_center.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/entertainment_center.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/media.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/media.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,23 +51,63 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1784821243">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="13" />
+          <entry key="py" value="1688" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Python" value="1688" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="py" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="Python" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Circulo com Quadrado (Turtle).py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OOP/entertainment_center.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="88">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/send_text.py">
+        <entry file="file://$PROJECT_DIR$/OOP/inheritance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            <state relative-caret-position="513">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <marker date="1541958896449" expanded="true" signature="15:20" ph="..." />
+                <marker date="1541958896449" expanded="true" signature="392:397" ph="..." />
+                <marker date="1541958896449" expanded="true" signature="392:785" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -74,20 +115,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OOP/media.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="50" lean-forward="true" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
-              <folding>
-                <marker date="1541776125624" expanded="true" signature="14:19" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OOP/entertainment_center.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            <state>
+              <caret column="2" selection-start-column="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -104,6 +133,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>dicio</find>
+      <find>fresh</find>
+      <find>fresh tomatoes mo</find>
+      <find>Fresh</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -116,16 +148,19 @@
         <option value="$PROJECT_DIR$/tests.py" />
         <option value="$PROJECT_DIR$/Controle_Ponto_Alertas.py" />
         <option value="$PROJECT_DIR$/send_text.py" />
+        <option value="$PROJECT_DIR$/OOP/fresh_tomatoes.py" />
+        <option value="$PROJECT_DIR$/OOP/page_movies.py" />
         <option value="$PROJECT_DIR$/OOP/media.py" />
+        <option value="$PROJECT_DIR$/OOP/inheritance.py" />
         <option value="$PROJECT_DIR$/OOP/entertainment_center.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1456" />
-    <option name="height" value="916" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -140,12 +175,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="Python_Udacity" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Udacity" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonUdacity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonUdacity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Python_Udacity" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Udacity" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonUdacity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonUdacity" type="462c0819:PsiDirectoryNode" />
               <item name="OOP" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -156,6 +191,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -170,27 +206,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.entertainment_center">
-    <configuration name="Circulo com Quadrado (Turtle)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Udacity" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Circulo com Quadrado (Turtle).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Controle_Ponto_Alertas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Udacity" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -233,7 +248,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="send_text" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Udacity" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -241,11 +256,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/send_text.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/inheritance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="media" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Udacity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/media.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,19 +312,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Circulo com Quadrado (Turtle)" />
-      <item itemvalue="Python.send_text" />
       <item itemvalue="Python.Controle_Ponto_Alertas" />
       <item itemvalue="Python.tests" />
       <item itemvalue="Python.entertainment_center" />
+      <item itemvalue="Python.media" />
+      <item itemvalue="Python.inheritance" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.entertainment_center" />
+        <item itemvalue="Python.inheritance" />
+        <item itemvalue="Python.media" />
         <item itemvalue="Python.Controle_Ponto_Alertas" />
         <item itemvalue="Python.tests" />
-        <item itemvalue="Python.send_text" />
-        <item itemvalue="Python.Circulo com Quadrado (Turtle)" />
       </list>
     </recent_temporary>
   </component>
@@ -306,15 +342,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1456" height="916" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14880113" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14806548" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.50319284" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42078364" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39846742" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -366,6 +402,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Controle_Ponto_Alertas.py" />
     <entry file="file://$PROJECT_DIR$/tests.py" />
+    <entry file="file://$PROJECT_DIR$/OOP/page_movies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/send_text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Circulo com Quadrado (Turtle).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -373,27 +423,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/send_text.py">
+    <entry file="file://$PROJECT_DIR$/OOP/page_movies.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        <state relative-caret-position="115">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP/inheritance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <marker date="1541958896449" expanded="true" signature="15:20" ph="..." />
+            <marker date="1541958896449" expanded="true" signature="392:397" ph="..." />
+            <marker date="1541958896449" expanded="true" signature="392:785" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OOP/media.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="50" lean-forward="true" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
-          <folding>
-            <marker date="1541776125624" expanded="true" signature="14:19" ph="..." />
-          </folding>
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OOP/entertainment_center.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        <state relative-caret-position="88">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
